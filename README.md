@@ -18,7 +18,7 @@ To write a python program to perform random classification.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
 ## PROGRAM:
-python
+```python
 
 #Program to implement random classification.
 #Developed by   : Vigneshwar S
@@ -35,7 +35,7 @@ plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
 
-
+```
 ## OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/83399375/164517826-d33d9987-9b5e-43bc-8d3d-98ff7e59b64b.png)
